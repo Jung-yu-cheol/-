@@ -7,7 +7,7 @@
 * [파이썬과 인공지능 기초수학](https://github.com/Jung-yucheol/test/blob/master/report2.ipynb)
 
 ## 3주차 과제 (2020.06.04)
-* 학습률 최적화, 군집 분석 구현, Cost Function 구현
+* [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/Jung-yucheol/test/blob/master/report3.ipynb)
 
 ## 4주차 과제 (2020.06.11)
 * 딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 
